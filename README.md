@@ -1,5 +1,5 @@
 # gender-prediction-height-weight-shoesize
-# README: Gender Prediction from Height, Weight, and Shoe Size
+Gender Prediction from Height, Weight, and Shoe Size
 
 ## Project Description
 This project demonstrates how to use machine learning to predict the gender of a person based on their height, weight, and shoe size. The code reads in a CSV file containing this data, trains several different classification models, and then evaluates their performance on a test set. The best-performing model is then used to make predictions on new data.
