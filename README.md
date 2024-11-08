@@ -1,4 +1,4 @@
-#gender-prediction-height-weight-shoesize
+# Gender-prediction-height-weight-shoesize
 Gender Prediction from Height, Weight, and Shoe Size
 
 ## Project Description
@@ -40,12 +40,12 @@ print(f"Predicted gender: {predicted_gender}")
 
 ## Data
 The project uses a CSV file that contains the following columns:
-- `Hight`: the height of the person in centimeters
+- `Height`: the height of the person in centimeters
 - `Weight`: the weight of the person in kilograms
 - `Shoe size`: the shoe size of the person
 - `Gender`: the gender of the person (either "male" or "female")
 
-You will need to provide your own CSV file with this data for the project to work.
+You will need to provide your own CSV file with this data for the project to work or use the one in the repository.
 
 ## Models
 The project tries several different machine learning models to predict the gender of a person:
